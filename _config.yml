@@ -2,7 +2,7 @@
 name: "DevsKrate"	
 title: "DevsKrate"	
 description: ""	
-logo: 'assets/images/;ogo.png'	
+logo: 'assets/images/logo.png'	
 favicon: 'assets/images/favicon.png'	
 baseurl: /devskrate
 google_analytics: 'UA-46278016-1'
