@@ -17,7 +17,7 @@ authors:
       display_name:     puneeth
       name:           Neerukonda Puneeth
       web:           https://puneethkanna.github.io
-      gravatar:         /assets/images/puneeth.jpg
+      avatar:         /assets/images/puneeth.jpg
       email:          neerukondapuneeth@gmail.com
       twitter:        https://twitter.com/puneeth_kanna
       description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
@@ -25,7 +25,7 @@ authors:
       display_name:     mohit
       name:           Indukuri Mohit
       web:           https://puneethkanna.github.io
-      gravatar:         /assets/images/mohit.jpeg
+      avatar:         /assets/images/mohit.jpeg
       email:          mohitindukuri100@gmail.com
       twitter:        https://twitter.com/indukuri_mohit
       description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
@@ -33,7 +33,7 @@ authors:
       display_name:     nikhil
       name:           Nikhil Reddy Pyreddy
       web:           https://nikhilpyreddy.me/
-      gravatar:         /assets/images/nikhil.jpg
+      avatar:         /assets/images/nikhil.jpg
       email:          nikhilpyreddy@gmail.com
       twitter:        https://twitter.com/NPyreddy
       description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
@@ -41,7 +41,7 @@ authors:
       display_name:     satya
       name:           Sri Satya Lokesh Karri
       web:           https://srisatyalokesh.github.io
-      gravatar:         /assets/images/satya.jpg   
+      avatar:         /assets/images/satya.jpg   
       email:          satya@devskrate.com
       twitter:        https://twitter.com/CodeWithSatya
       description: "Software Engineer at Dhan AI. Python Developer, Tech Enthusiastic, Photographer"
