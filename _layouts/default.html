@@ -99,12 +99,23 @@ ga('send', 'pageview');
 
 <!-- Site Title
 ================================================== -->
-<!-- <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+ <div class="mainheading">
+<!--     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
-    </p>
-</div> -->
+    </p> -->
+	 {% assign sorted = (site.go | sort: 'date') | reverse %}
+      {% for post in sorted %}
+        {% if post.url == page.url %}
+          <li class="navigation-list-item active"><a href="{{site.baseurl}}{{post.url}}" class="navigation-list-link active">{{post.title}}</a>
+          </li>
+        {% else %}
+          <li class="navigation-list-item"><a href="{{site.baseurl}}{{post.url}}" class="navigation-list-link">{{post.title}}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+</div> 
+	
 
 <!-- Content
 ================================================== -->
