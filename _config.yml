@@ -14,41 +14,37 @@ permalink: /:title/
 # Authors
 authors:
     puneeth:
-      short_name:     puneeth
+      display_name:     puneeth
       name:           Neerukonda Puneeth
-      site:           https://puneethkanna.github.io
-      avatar:         /assets/images/puneeth.jpg
-      bio:            "Student Developer, Tech Enthusiastic, love to browse the Internet!"
+      web:           https://puneethkanna.github.io
+      gravatar:         /assets/images/puneeth.jpg
       email:          neerukondapuneeth@gmail.com
       twitter:        https://twitter.com/puneeth_kanna
       description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
     mohit:
-      short_name:     mohit
+      display_name:     mohit
       name:           Indukuri Mohit
-      site:           https://puneethkanna.github.io
-      avatar:         /assets/images/mohit.jpeg
-      bio:            "Tech Enthusiastic, love to browse the Internet!"
+      web:           https://puneethkanna.github.io
+      gravatar:         /assets/images/mohit.jpeg
       email:          mohitindukuri100@gmail.com
       twitter:        https://twitter.com/indukuri_mohit
       description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
     nikhil:
-      short_name:     nikhil
+      display_name:     nikhil
       name:           Nikhil Reddy Pyreddy
-      site:           https://nikhilpyreddy.me/
-      avatar:         /assets/images/nikhil.jpg
-      bio:            "Student Developer, Tech Enthusiastic, love to browse the Internet!"
+      web:           https://nikhilpyreddy.me/
+      gravatar:         /assets/images/nikhil.jpg
       email:          nikhilpyreddy@gmail.com
       twitter:        https://twitter.com/NPyreddy
       description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
     satya:
-      short_name:     satya
+      display_name:     satya
       name:           Sri Satya Lokesh Karri
-      site:           https://srisatyalokesh.github.io
-      avatar:         /assets/images/satya.jpg
-      bio:            "Software Engineer at Dhan AI. Python Developer, Tech Enthusiastic, Photographer"
+      web:           https://srisatyalokesh.github.io
+      gravatar:         /assets/images/satya.jpg   
       email:          satya@devskrate.com
       twitter:        https://twitter.com/CodeWithSatya
-      description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+      description: "Software Engineer at Dhan AI. Python Developer, Tech Enthusiastic, Photographer"
 # Plugins
 plugins:
   - jekyll-paginate
