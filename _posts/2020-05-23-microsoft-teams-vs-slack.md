@@ -5,6 +5,7 @@ author: nikhil
 categories: [ microsoft, teams, slack]
 image: assets/images/internet/slack-vs-teams.jpg
 tags: [microsoft teams, communication, trends, comparsion]
+featured: true
 ---
 
 Both Microsoft Teams and Slack are collaboration platform tools that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration.   
