@@ -1,9 +1,9 @@
 # Site
-name: "Mediumish"	name: "DevsKrate"
-title: "Mediumish"	title: "DevsKrate"
-description: "Jekyll template, Medium styled, free for bloggers."	description: "Krate of Developers with full of loot"
-logo: 'assets/images/logo.png'	logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'	favicon: 'assets/images/clogo_white.png'
+name: "Mediumish"	
+title: "Mediumish"	
+description: "Jekyll template, Medium styled, free for bloggers."	
+logo: 'assets/images/logo.png'	
+favicon: 'assets/images/logo.png'	
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
