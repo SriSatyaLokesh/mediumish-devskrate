@@ -13,24 +13,38 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+  puneeth:
+      short_name:     puneeth
+      name:           Neerukonda Puneeth
+      site:           https://puneethkanna.github.io
+      avatar:         /assets/images/puneeth.jpg
+      bio:            "Student Developer, Tech Enthusiastic, love to browse the Internet!"
+      email:          neerukondapuneeth@gmail.com
+      twitter:        https://twitter.com/puneeth_kanna
+    mohit:
+      short_name:     mohit
+      name:           Indukuri Mohit
+      site:           https://puneethkanna.github.io
+      avatar:         /assets/images/mohit.jpeg
+      bio:            "Tech Enthusiastic, love to browse the Internet!"
+      email:          mohitindukuri100@gmail.com
+      twitter:        https://twitter.com/indukuri_mohit
+    nikhil:
+      short_name:     nikhil
+      name:           Nikhil Reddy Pyreddy
+      site:           https://nikhilpyreddy.me/
+      avatar:         /assets/images/nikhil.jpg
+      bio:            "Student Developer, Tech Enthusiastic, love to browse the Internet!"
+      email:          nikhilpyreddy@gmail.com
+      twitter:        https://twitter.com/NPyreddy
+    satya:
+      short_name:     satya
+      name:           Sri Satya Lokesh Karri
+      site:           https://srisatyalokesh.github.io
+      avatar:         /assets/images/satya.jpg
+      bio:            "Software Engineer at Dhan AI. Python Developer, Tech Enthusiastic, Photographer"
+      email:          satya@devskrate.com
+      twitter:        https://twitter.com/CodeWithSatya
 # Plugins
 plugins:
   - jekyll-paginate
@@ -48,7 +62,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
     
 # Other
@@ -67,6 +81,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
