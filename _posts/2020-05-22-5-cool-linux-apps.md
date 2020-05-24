@@ -5,6 +5,7 @@ author: puneeth
 categories: [ linux, os, mlogs ]
 image: assets/images/linux/5-cool-linux-apps.png
 tags: [linux, ubuntu, os, apps]
+featured: true
 ---
 
 In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.
